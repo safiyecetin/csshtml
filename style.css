@@ -1,0 +1,45 @@
+article p {
+    color: #cc5d62
+}
+
+div h1 {
+    color: #8a2be2;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+body div {
+    background-color: #fff0f5;
+}
+
+span {
+    color: #8a2be2;
+}
+
+
+.btn {
+    background-color: #8a2be2;
+    color: #fff;
+    padding: 10px 10px;
+    display: inline-block; 
+     
+    
+    text-decoration: none;
+    
+    border-radius: 4px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh
+}
+.card {
+    border: 1px solid #ccc;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 40px;
+    border-radius: 4px;
+    width: 500px;
+    padding: 40px;
+}
